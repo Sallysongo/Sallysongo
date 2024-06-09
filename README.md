@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis.programming and coding
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me : [songosylvia@gmail.com]
+- 📫 How to reach me : https://www.linkedin.com/in/sylvia-songo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
