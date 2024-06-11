@@ -5,7 +5,7 @@
 - 👀 I’m interested in Data analysis and visualisation
 - 🌱 I’m currently learning SQL, Excel and data visualization techniques with Dahel Consulting 
 - 💞️ I’m looking to collaborate with individuals and organisations on entry level data analytics projects that involve data cleaning, analyzing, and visualization.
-- 📫 How to reach me : https://www.linkedin.com/in/sylvia-songo
+- 📫 How to reach me :[linkedin](https://www.linkedin.com/in/sylvia-songo-5471b4283)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching comedies and enjoy puzzle games 
 
